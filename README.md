@@ -51,8 +51,9 @@
 - Git
 - GitHub
 
-### Enterprise
-- SAP
+### Enterprise Technologies
+- SAP S/4HANA
+- ABAP
 
 ---
 
