@@ -73,13 +73,6 @@
 
 ---
 
-### 🏠 Sapno Ka Ghar
-- Smart Home Automation
-- MERN Stack + ESP32
-- Real-time monitoring and control
-
----
-
 ### 📈 Gold & Silver Price Prediction
 - LSTM-based forecasting model
 - 98% prediction accuracy
