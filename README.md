@@ -8,7 +8,7 @@
 
 🚀 Skilled in Full Stack Development, Artificial Intelligence, Machine Learning, Cloud Technologies, and SAP.
 
-🧩 Solved **300+ LeetCode problems**, strengthening my Data Structures & Algorithms skills.
+🧩 Solved **400+ LeetCode problems**, strengthening my Data Structures & Algorithms skills.
 
 🌱 Currently exploring System Design, Cloud Computing, and Large Language Models (LLMs).
 
