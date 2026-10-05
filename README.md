@@ -91,6 +91,7 @@
 
 ## 📜 Certifications
 
+- AWS Certified Cloud Practitioner
 - SAP Certified Learner
 - AI & Machine Learning
 - Cloud Computing
