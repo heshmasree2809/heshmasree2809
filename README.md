@@ -21,7 +21,7 @@
 
 ```python
 class HeshmaSree:
-    role      = "Aspiring Software Engineer"
+    role      = "Aspiring Machine Learning Engineer"
     education = "B.Tech in CSE (2023 – 2027)"
     skills    = ["Full Stack", "AI / ML", "Cloud", "SAP"]
     dsa       = "400+ LeetCode problems solved"
