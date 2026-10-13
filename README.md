@@ -1,209 +1,178 @@
-<!-- ============ 3D / ANIMATED HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Heshma%20Sree&fontSize=70&fontColor=00f7ff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20Cloud%20%E2%80%A2%20SAP&descSize=20&descAlignY=60&descColor=ffffff" width="100%" alt="header"/>
+# Hi, I'm Heshma Sree 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=760&lines=%3E+Hi%2C+I'm+Heshma+Sree+%F0%9F%91%8B;%3E+Aspiring+Software+Engineer;%3E+Building+scalable+%26+AI-powered+apps;%3E+400%2B+LeetCode+problems+solved;%3E+Exploring+System+Design+%26+LLMs" alt="Typing SVG" />
-</a>
+### Aspiring Software Engineer | AI/ML | Full Stack Development
 
-<br/>
+B.Tech Computer Science and Engineering (2023–2027)
 
-<img src="https://komarev.com/ghpvc/?username=heshmasree2809&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/badge/B.Tech-CSE%202023--2027-7b2ff7?style=for-the-badge&logo=academia&logoColor=white" alt="education"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
+[![GitHub](https://img.shields.io/badge/GitHub-heshmasree2809-181717?style=flat-square\&logo=github)](https://github.com/heshmasree2809)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/avuthu-heshma-sree-51a077303/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/avuthuheshmasree/)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
-## 👩‍💻 `whoami`
+## 👩‍💻 About Me
 
-```python
-class HeshmaSree:
-    role      = "Aspiring Machine Learning Engineer"
-    education = "B.Tech in CSE (2023 – 2027)"
-    skills    = ["Full Stack", "AI / ML", "Cloud", "SAP"]
-    dsa       = "400+ LeetCode problems solved"
-    exploring = ["System Design", "Cloud Computing", "LLMs"]
-    mission   = "Build scalable software & AI-powered applications"
+I'm a Computer Science student passionate about software engineering, artificial intelligence, and building practical applications.
 
-    def status(self):
-        return "Learning, building, shipping 🚀"
-```
+* 🎓 Pursuing B.Tech in Computer Science and Engineering.
+* 💻 Interested in full-stack development and machine learning.
+* 🧠 Solving Data Structures and Algorithms problems on LeetCode.
+* ☁️ Exploring cloud computing, MLOps, and AI-powered applications.
+* 🏢 Certified in SAP technologies and AWS Cloud concepts.
+* 🚀 Focused on building scalable, useful, and reliable software.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<div align="center">
+**Programming Languages**
 
-**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,mysql&theme=dark" alt="languages"/>
+**Frontend Development**
 
-**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="frontend"/>
+**Backend Development**
 
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="backend"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="databases"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 
-**AI / ML**
+**AI / Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,opencv&theme=dark" alt="ai ml"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud, DevOps & Enterprise**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" alt="cloud devops"/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square\&logo=sap\&logoColor=white)
+![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-0FAAFF?style=flat-square\&logo=sap\&logoColor=white)
 
-**Enterprise**
-
-<img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap"/>
-<img src="https://img.shields.io/badge/ABAP-1B90FF?style=for-the-badge&logo=sap&logoColor=white" alt="abap"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="33%" valign="top">
+### 🛒 OmniMarket — AI-Powered Multi-Vendor Marketplace
 
-### 🛒 OmniMarket
-**Enterprise AI Marketplace**
+A full-stack marketplace designed to support multiple vendors, product discovery, role-based access control, and AI-powered recommendations.
 
-AI-powered multi-vendor marketplace with smart product discovery and vendor management.
+**Technologies:** React, Node.js, Express.js, MongoDB, AI
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+[View Repository](https://github.com/heshmasree2809/omnimarket-enterprise-ai-multi-vendor-marketplace)
 
-</td>
-<td width="33%" valign="top">
+### 🤖 AI Developer Assistant
 
-### 🤖 VigilAI
-**Intelligent Online Proctoring**
+An AI-powered application designed to assist developers with coding-related tasks through a web interface and backend AI integration.
 
-Face detection, eye tracking and suspicious-activity monitoring for secure online exams.
+**Technologies:** React, Python, FastAPI, PostgreSQL, LLM APIs
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![AI](https://img.shields.io/badge/Computer%20Vision-ff0055?style=flat-square)
+[View GitHub Profile](https://github.com/heshmasree2809)
 
-</td>
-<td width="33%" valign="top">
+### 📈 Gold & Silver Price Prediction
 
-### 📈 Gold & Silver Prediction
-**LSTM Forecasting**
+A time-series forecasting project using LSTM neural networks to predict gold and silver prices from historical data.
 
-Time-series model with 98% prediction accuracy built on TensorFlow.
+**Technologies:** Python, TensorFlow, LSTM, Pandas, NumPy
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-7b2ff7?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+### 🖐️ AI-GestureFX
 
-</td>
-</tr>
-</table>
-</div>
+A computer vision application that recognizes hand gestures and triggers corresponding visual effects.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+**Technologies:** Python, TensorFlow, OpenCV, MediaPipe
 
-## 📊 GitHub Analytics
+[View Repository](https://github.com/heshmasree2809/AI-GestureFX)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=heshmasree2809&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7b2ff7&include_all_commits=true&count_private=true" height="180" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshmasree2809&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff" height="180" alt="top langs"/>
+<img src="https://github-readme-stats.vercel.app/api?username=heshmasree2809&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshmasree2809&layout=compact&theme=default&hide_border=true" height="165" alt="Most Used Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=heshmasree2809&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heshmasree2809&bg_color=0d1117&color=00f7ff&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true" alt="activity graph" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=heshmasree2809&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
-## 🧊 3D Contribution Graph
+---
+
+## 💻 LeetCode
 
 <div align="center">
 
-<!-- Generated by the workflow in .github/workflows/profile-3d.yml -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+<img src="https://leetcard.jacoblin.cool/avuthuheshmasree?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Statistics" width="80%" />
+
+**500+ Problems Solved**
+
+Practicing Data Structures and Algorithms to strengthen problem-solving skills.
 
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Generated by the same workflow (pushed to the `output` branch) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heshmasree2809/heshmasree2809/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/heshmasree2809/heshmasree2809/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-## 💻 Coding Profile
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/avuthuheshmasree?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="80%"/>
-
-</div>
-
-- 🧩 **500+ problems solved** on LeetCode
-- 🧠 Strong foundation in Data Structures & Algorithms
-- 🔁 Regular problem solver and continuous learner
+---
 
 ## 📜 Certifications
 
-<div align="center">
+* **SAP S/4HANA Cloud Private Edition — Sourcing and Procurement**
+* **SAP Back-End Developer — ABAP Cloud**
+* **AWS Certified Cloud Practitioner** — include this title if it matches your actual certification status; otherwise, list your AWS Cloud Practitioner training or learning achievement.
+* Additional certifications in AI, machine learning, cloud computing, and software development.
 
-![AWS](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-Certified%20Learner-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![AIML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Certified-ff0055?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Computing-Certified-00b4d8?style=for-the-badge&logo=icloud&logoColor=white)
-![FullStack](https://img.shields.io/badge/Full%20Stack%20Development-Certified-7b2ff7?style=for-the-badge&logo=react&logoColor=white)
-
-</div>
+---
 
 ## 🎯 Areas of Interest
 
+* Software Engineering
+* Artificial Intelligence and Machine Learning
+* Full-Stack Development
+* Backend Engineering
+* Cloud Computing and MLOps
+* Generative AI and Large Language Models
+* SAP Technologies
+
+---
+
+## 📫 Connect With Me
+
 <div align="center">
 
-`Software Engineering` · `Artificial Intelligence` · `Machine Learning` · `Backend Development` · `Full Stack Development` · `Cloud Computing` · `SAP Technologies`
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:avuthuheshmasree@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/avuthu-heshma-sree-51a077303/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/heshmasree2809)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/avuthuheshmasree/)
 
-</div>
-
-## 📫 Connect with Me
-
-<div align="center">
-
-<a href="mailto:avuthuheshmasree@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<a href="https://www.linkedin.com/in/avuthu-heshma-sree-51a077303/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://github.com/heshmasree2809"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://leetcode.com/u/avuthuheshmasree/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=7B2FF7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together" alt="footer typing"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" alt="footer"/>
+**Thanks for visiting my profile!**
 
 </div>
