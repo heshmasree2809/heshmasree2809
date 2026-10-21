@@ -144,10 +144,9 @@ Practicing Data Structures and Algorithms to strengthen problem-solving skills.
 ---
 
 ## 📜 Certifications
-
+* **AWS Certified Cloud Practitioner**
 * **SAP S/4HANA Cloud Private Edition — Sourcing and Procurement**
 * **SAP Back-End Developer — ABAP Cloud**
-* **AWS Certified Cloud Practitioner**
 * Additional certifications in AI, machine learning, cloud computing, and software development.
 
 ---
