@@ -79,12 +79,6 @@ I'm a Computer Science student passionate about software engineering, artificial
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 OmniMarket — AI-Powered Multi-Vendor Marketplace
-
-A full-stack marketplace designed to support multiple vendors, product discovery, role-based access control, and AI-powered recommendations.
-
 **Technologies:** React, Node.js, Express.js, MongoDB, AI
 
 [View Repository](https://github.com/heshmasree2809/omnimarket-enterprise-ai-multi-vendor-marketplace)
