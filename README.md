@@ -79,11 +79,6 @@ I'm a Computer Science student passionate about software engineering, artificial
 
 ---
 
-**Technologies:** React, Node.js, Express.js, MongoDB, AI
-
-[View Repository](https://github.com/heshmasree2809/omnimarket-enterprise-ai-multi-vendor-marketplace)
-
-
 
 ## 📊 GitHub Statistics
 
