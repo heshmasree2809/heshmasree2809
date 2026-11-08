@@ -96,13 +96,6 @@ A time-series forecasting project using LSTM neural networks to predict gold and
 
 **Technologies:** Python, TensorFlow, LSTM, Pandas, NumPy
 
-### 🖐️ AI-GestureFX
-
-A computer vision application that recognizes hand gestures and triggers corresponding visual effects.
-
-**Technologies:** Python, TensorFlow, OpenCV, MediaPipe
-
-[View Repository](https://github.com/heshmasree2809/AI-GestureFX)
 
 ### 🤖 AI Developer Assistant
 
