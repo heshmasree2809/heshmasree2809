@@ -90,13 +90,6 @@ A full-stack marketplace designed to support multiple vendors, product discovery
 [View Repository](https://github.com/heshmasree2809/omnimarket-enterprise-ai-multi-vendor-marketplace)
 
 
-### 🤖 AI Developer Assistant
-
-An AI-powered application designed to assist developers with coding-related tasks through a web interface and backend AI integration.
-**Technologies:** React, Python, FastAPI, PostgreSQL, LLM APIs
-
-
----
 
 ## 📊 GitHub Statistics
 
