@@ -90,17 +90,9 @@ A full-stack marketplace designed to support multiple vendors, product discovery
 [View Repository](https://github.com/heshmasree2809/omnimarket-enterprise-ai-multi-vendor-marketplace)
 
 
-### 📈 Gold & Silver Price Prediction
-
-A time-series forecasting project using LSTM neural networks to predict gold and silver prices from historical data.
-
-**Technologies:** Python, TensorFlow, LSTM, Pandas, NumPy
-
-
 ### 🤖 AI Developer Assistant
 
 An AI-powered application designed to assist developers with coding-related tasks through a web interface and backend AI integration.
-
 **Technologies:** React, Python, FastAPI, PostgreSQL, LLM APIs
 
 
