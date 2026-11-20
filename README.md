@@ -238,14 +238,6 @@ Consistently practicing Data Structures and Algorithms, focusing on problem-solv
 
 ---
 
-## 🤝 Leadership & Activities
-
-- **VCode Department Fest – Department Lead (2026):** Led technical design and coordination activities for a large-scale college fest.
-- **Student Activity Centre – Technical Design Lead (2025–2026):** Contributed to technical design and creative coordination for college activities.
-- **Class Representative (2025–Present):** Supporting communication and coordination between students and faculty.
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
