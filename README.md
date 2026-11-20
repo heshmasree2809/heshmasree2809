@@ -26,22 +26,6 @@
 
 ---
 
-## 🧭 Explore My Portfolio
-
-<div align="center">
-
-[👩‍💻 About Me](#-about-me) •
-[⚡ Skills](#-technology-stack) •
-[🚀 Projects](#-featured-projects) •
-[📊 GitHub](#-github-analytics) •
-[💻 LeetCode](#-leetcode) •
-[🏆 Certifications](#-certifications) •
-[📫 Contact](#-lets-connect)
-
-</div>
-
----
-
 ## 👩‍💻 About Me
 
 Hello! I'm **Heshma Sree Avuthu**, a Computer Science and Engineering student passionate about building scalable software, reliable backend systems and intelligent applications.
