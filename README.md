@@ -38,7 +38,7 @@ class Developer:
     def __init__(self):
         self.name = "Heshma Sree Avuthu"
         self.role = "Aspiring Software Engineer"
-        self.education = "B.Tech CSE (2023-–2027)"
+        self.education = "B.Tech CSE (2023–2027)"
 
         self.interests = [
             "Backend Engineering",
