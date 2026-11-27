@@ -162,24 +162,7 @@ Machine Learning • Deep Learning • Generative AI • LLMs • RAG • NLP �
 
 ---
 
-### 02. 🔄 Event-Driven Microservices Platform
-
-<a href="https://github.com/heshmasree2809/SDE-Internship-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=heshmasree2809&repo=SDE-Internship-&theme=default&hide_border=true&bg_color=F8FAFC&title_color=0284C7&icon_color=14B8A6"/>
-</a>
-
-**Java · Spring Boot · Apache Kafka · Elasticsearch · PostgreSQL**
-
-- Developed event-driven microservices.
-- Integrated Kafka for asynchronous communication.
-- Explored CQRS and event sourcing.
-- Integrated Elasticsearch for indexing and querying.
-
-[Explore Repository →](https://github.com/heshmasree2809/SDE-Internship-)
-
----
-
-### 03. 🏢 Enterprise IT Helpdesk & Asset Management
+### 02. 🏢 Enterprise IT Helpdesk & Asset Management
 
 <a href="https://github.com/heshmasree2809/Enterprise-IT-Helpdesk-Asset-Management-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=heshmasree2809&repo=Enterprise-IT-Helpdesk-Asset-Management-System&theme=default&hide_border=true&bg_color=F8FAFC&title_color=0284C7&icon_color=14B8A6"/>
@@ -196,7 +179,7 @@ Machine Learning • Deep Learning • Generative AI • LLMs • RAG • NLP �
 
 ---
 
-### 04. 📦 Inventory Management & Reporting System
+### 03. 📦 Inventory Management & Reporting System
 
 <a href="https://github.com/heshmasree2809/Inventory-Management-and-Reporting-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=heshmasree2809&repo=Inventory-Management-and-Reporting-System&theme=default&hide_border=true&bg_color=F8FAFC&title_color=0284C7&icon_color=14B8A6"/>
@@ -214,7 +197,7 @@ Machine Learning • Deep Learning • Generative AI • LLMs • RAG • NLP �
 
 ---
 
-### 05. 🔑 Ring Key-Value Store
+### 04. 🔑 Ring Key-Value Store
 
 <a href="https://github.com/heshmasree2809/Ring-Key-Value-Store">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=heshmasree2809&repo=Ring-Key-Value-Store&theme=default&hide_border=true&bg_color=F8FAFC&title_color=0284C7&icon_color=14B8A6"/>
